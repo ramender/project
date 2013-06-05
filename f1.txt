@@ -2,3 +2,5 @@ main()
 {
 printf("hi!!!");
 }
+
+//output prints hi!!!
